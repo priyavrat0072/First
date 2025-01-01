@@ -24,7 +24,7 @@ function App() {
 
   return (
     <>
-    <Text>Hello</Text>
+    <Text>Hello world</Text>
     </>
   );
 }
